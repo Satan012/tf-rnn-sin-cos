@@ -1,0 +1,6 @@
+model_checkpoint_path: "model.ckpt-681"
+all_model_checkpoint_paths: "-620"
+all_model_checkpoint_paths: "-630"
+all_model_checkpoint_paths: "-650"
+all_model_checkpoint_paths: "-680"
+all_model_checkpoint_paths: "model.ckpt-681"
